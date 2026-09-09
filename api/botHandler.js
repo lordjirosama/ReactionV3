@@ -261,11 +261,11 @@ function getHelpKeyboard(userId, ownerId) {
             { text: '👀 Aʟɪsᴀ Rᴇᴀᴄᴛɪᴏɴs ✨', callback_data: 'cb_reactions', style: 'success' },
         ],
         [
-            { text: '🔔 Uᴘᴅᴀᴛᴇs', url: 'https://t.me/MaximXBots', style: 'primary' },
-            { text: 'Sᴜᴘᴘᴏʀᴛ 💬', url: 'https://t.me/MaximXGroup', style: 'primary' },
+            { text: '🔔 Uᴘᴅᴀᴛᴇs', url: 'https://t.me/Solurix_bots', style: 'primary' },
+            { text: 'Sᴜᴘᴘᴏʀᴛ 💬', url: 'https://t.me/Solurix_bots', style: 'primary' },
         ],
         [
-            { text: '🔔 Sᴘᴏɴsᴏʀᴇᴅ Cʜᴀɴɴᴇʟ 💥', url: 'https://t.me/CodeFlix_Bots', style: 'primary' },
+            { text: '🔔 Sᴘᴏɴsᴏʀᴇᴅ Cʜᴀɴɴᴇʟ 💥', url: 'https://t.me/Solurix_bots', style: 'primary' },
         ],
     ];
 
@@ -284,8 +284,8 @@ function getHelpKeyboard(userId, ownerId) {
 function getBackKeyboard() {
     return [
         [
-            { text: '🔔 Uᴘᴅᴀᴛᴇs', url: 'https://t.me/MaximXBots', style: 'success' },
-            { text: 'Sᴜᴘᴘᴏʀᴛ 💬', url: 'https://t.me/MaximXGroup', style: 'success' },
+            { text: '🔔 Uᴘᴅᴀᴛᴇs', url: 'https://t.me/Senpai_jiro', style: 'success' },
+            { text: 'Sᴜᴘᴘᴏʀᴛ 💬', url: 'https://t.me/Senpai_jiro', style: 'success' },
         ],
         [
             { text: '◁ Bᴀᴄᴋ', callback_data: 'cb_menu', style: 'primary' },
@@ -1121,11 +1121,11 @@ export async function onUpdate(data, botApi, Reactions, RestrictedChats, botUser
 
                 const welcomeBtns = [
                     [
-                        { text: '🧑‍💻 Dᴇᴠᴇʟᴏᴘᴇʀ ✨', url: 'https://t.me/Shineii86' , style: 'success'}
+                        { text: '🧑‍💻 Dᴇᴠᴇʟᴏᴘᴇʀ ✨', url: 'https://t.me/Senpai_jiro' , style: 'success'}
                     ],
                     [
-                        { text: '⭐ Sᴛɪᴄᴋᴇʀs', url: 'https://t.me/MaximXStickers', style: 'primary' },
-                        { text: 'Bᴏᴛs 🤖', url: 'https://t.me/MaximXBots', style: 'primary' }
+                        { text: '⭐ Sᴛɪᴄᴋᴇʀs', url: 'https://t.me/Senpai_jiro', style: 'primary' },
+                        { text: 'Bᴏᴛs 🤖', url: 'https://t.me/Solurix_bots', style: 'primary' }
                     ],
                     [
                         { text: '💥 Cʟᴏsᴇ Mᴇɴᴜ ✨', callback_data: 'cb_close' , style: 'danger'}
@@ -1154,11 +1154,11 @@ export async function onUpdate(data, botApi, Reactions, RestrictedChats, botUser
 
                 const leaveBtns = [
                     [
-                        { text: '🧑‍💻 Dᴇᴠᴇʟᴏᴘᴇʀ ✨', url: 'https://t.me/Shineii86' , style: 'success'}
+                        { text: '🧑‍💻 Dᴇᴠᴇʟᴏᴘᴇʀ ✨', url: 'https://t.me/Senpai_jiro' , style: 'success'}
                     ],
                     [
-                        { text: '⭐ Sᴛɪᴄᴋᴇʀs', url: 'https://t.me/MaximXStickers', style: 'primary' },
-                        { text: 'Bᴏᴛs 🤖', url: 'https://t.me/MaximXBots', style: 'primary' }
+                        { text: '⭐ Sᴛɪᴄᴋᴇʀs', url: 'https://t.me/Solurix_bots', style: 'primary' },
+                        { text: 'Bᴏᴛs 🤖', url: 'https://t.me/Solurix_bots', style: 'primary' }
                     ],
                     [
                         { text: '💥 Cʟᴏsᴇ Mᴇɴᴜ ✨', callback_data: 'cb_close' , style: 'danger'}
