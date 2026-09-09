@@ -4,8 +4,8 @@ compatibility_date = "2026-02-22"
 compatibility_flags = ["nodejs_compat"]
 
 [vars]
-BOT_TOKEN = "12345678:PAST-YOUR-BOT-TOKEN-HERE"
-BOT_USERNAME = "AlisaReactionBot"
+BOT_TOKEN = "8658849738:AAFzvmhsJJLyEx82GtXNOwr06MqlKEbE08c"
+BOT_USERNAME = "ProAutoReaction_bot"
 EMOJI_LIST = "👍❤🔥🥰👏😁🎉🤩🙏👌🕊😍🐳❤‍🔥💯⚡🏆"
 RANDOM_LEVEL = "0"
-RESTRICTED_CHATS = "1234,5678"
+RESTRICTED_CHATS = ""
