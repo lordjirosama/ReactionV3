@@ -96,19 +96,19 @@ export const adminPanelMessage = `👑 <b>Aᴅᴍɪɴ Pᴀɴᴇʟ — Oᴡɴᴇ�
 // ══════════════════════════════════════════════════════════════
 
 // ---- FEATURE: /about bot info + character lore ----
-export const aboutMessage = `🦊 <a href='https://t.me/AlisaReactionBot'>Aʟɪsᴀ Rᴇᴀᴄᴛɪᴏɴs Bᴏᴛ</a> Cʀᴀғᴛᴇᴅ Bʏ <b><a href='https://t.me/Shineii86'>Sʜɪɴᴇɪ Nᴏᴜᴢᴇɴ</a></b> Usɪɴɢ <b>Nᴏᴅᴇ.js</b> & <b>Express</b> — Dᴇᴘʟᴏʏᴇᴅ Oɴ <b>Cʟᴏᴜᴅғʟᴀʀᴇ Wᴏʀᴋᴇʀs</b>, <b>Vᴇʀᴄᴇʟ</b> & <b>Dᴏᴄᴋᴇʀ</b>.
+export const aboutMessage = `🦊 <a href='https://t.me/AlisaReactionBot'>Aʟɪsᴀ Rᴇᴀᴄᴛɪᴏɴs Bᴏᴛ</a> Cʀᴀғᴛᴇᴅ Bʏ <b><a href='https://t.me/Senpai_jiro'>ᴊɪʀᴏ</a></b> Usɪɴɢ <b>Nᴏᴅᴇ.js</b> & <b>Express</b> — Dᴇᴘʟᴏʏᴇᴅ Oɴ <b>Cʟᴏᴜᴅғʟᴀʀᴇ Wᴏʀᴋᴇʀs</b>, <b>Vᴇʀᴄᴇʟ</b> & <b>Dᴏᴄᴋᴇʀ</b>.
 
 <b>Tʜᴇ Sᴘɪʀɪᴛ Oғ Tʜɪs Bᴏᴛ Is Iɴғᴜsᴇᴅ Wɪᴛʜ Tʜᴇ Essᴇɴᴄᴇ Oғ Aʟɪsᴀ Mɪᴋʜᴀɪʟᴏᴠɴᴀ Kᴜᴊᴏᴜ</b>, Tʜᴇ Hᴀʟꜰ-Rᴜssɪᴀɴ, Hᴀʟꜰ-Jᴀᴘᴀɴᴇsᴇ Iᴄᴇ Ҩᴜᴇᴇɴ Wʜᴏsᴇ Sʜᴀʀᴘ Tᴏɴɢᴜᴇ Aɴᴅ Hɪᴅᴅᴇɴ Wᴀʀᴍᴛʜ Gᴏᴠᴇʀɴ Hᴇʀ Eᴠᴇʀʏ Wᴏʀᴅ. As Tʜᴇ Tsᴜɴᴅᴇʀᴇ Pʀɪᴅᴇ Oғ "Tᴏᴋɪᴅᴏᴋɪ Bᴏsᴏᴛᴛᴏ Rᴏssɪᴀ-ɢᴏ Dᴇ Dᴇʀᴇʀᴜ Tᴏɴᴀʀɪ Nᴏ Aʟʏᴀ-Sᴀɴ," Sʜᴇ Cᴀᴘᴛɪᴠᴀᴛᴇs Wɪᴛʜ Hᴇʀ Eʟᴇɢᴀɴᴛ Pʀɪᴅᴇ, Sʜᴀʀᴘ Wɪᴛ, Aɴᴅ Tʜᴏsᴇ Mᴏᴍᴇɴᴛs Wʜᴇɴ Rᴜssɪᴀɴ Sʟɪᴘs Tʜʀᴏᴜɢʜ Hᴇʀ Cᴏᴍᴘᴏsᴇᴅ Fᴀᴄᴀᴅᴇ—Ҩᴜᴀʟɪᴛɪᴇs Eᴍʙᴏᴅɪᴇᴅ Iɴ Tʜɪs Bᴏᴛ's Dᴇsɪɢɴ.
 
 Хмпф… N-Nᴏᴛ Tʜᴀᴛ I Cᴀʀᴇ Iғ Yᴏᴜ Rᴇᴀᴅ Tʜɪs Fᴀʀ.
 
 <b>» 🚀 Vᴇʀsɪᴏɴ:</b> v${VERSION}
-<b>» 📡 Nᴇᴛᴡᴏʀᴋ:</b> <a href='https://t.me/QuinxNetwork'>Ҩᴜɪɴx Nᴇᴛᴡᴏʀᴋ</a>
-<b>» 🔔 Mᴀɪɴ Cʜᴀɴɴᴇʟ:</b> <a href='https://t.me/MaximXBots'>Mᴀxɪᴍ 𝕏 Bᴏᴛs</a>
-<b>» 💬 Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ:</b> <a href='https://t.me/MaximXGroup'>Mᴀxɪᴍ 𝕏 Gʀᴏᴜᴘ</a>
+<b>» 📡 Nᴇᴛᴡᴏʀᴋ:</b> <a href='https://t.me/Solurix_bots'>Sᴏʟᴜʀɪx Nᴇᴛᴡᴏʀᴋ</a>
+<b>» 🔔 Mᴀɪɴ Cʜᴀɴɴᴇʟ:</b> <a href='https://t.me/Solurix_bots'>Mᴀxɪᴍ 𝕏 Bᴏᴛs</a>
+<b>» 💬 Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ:</b> <a href='https://t.me/Solurix_bots'>Mᴀxɪᴍ 𝕏 Gʀᴏᴜᴘ</a>
 
 <b>Bᴏᴛ Cʀᴇᴅɪᴛs</b>
-<b>» 💀 Dᴇᴠᴇʟᴏᴘᴇʀ:</b> <a href='https://t.me/Shineii86'>Sʜɪɴᴇɪ Nᴏᴜᴢᴇɴ</a>`
+<b>» 💀 Dᴇᴠᴇʟᴏᴘᴇʀ:</b> <a href='https://t.me/Senpai_jiro'>ᴊɪʀᴏ</a>`
 
 // ══════════════════════════════════════════════════════════════
 // DONATE MESSAGE
@@ -126,10 +126,10 @@ L-Lᴏᴏᴋ… Iғ Yᴏᴜ Eɴᴊᴏʏ Usɪɴɢ Mʏ Sᴇʀᴠɪᴄᴇs, I Sᴜ�
 <i>(Aᴄᴄᴇᴘᴛs Bᴏᴛʜ Tᴏɴ Aɴᴅ Usᴅᴛ Oɴ Tᴏɴ Nᴇᴛᴡᴏʀᴋ)</i>
 
 🇮🇳 <b>Iɴʀ PʜᴏɴᴇPᴇ</b>
-- <b>Uᴘɪ Iᴅ:</b> Dᴍ Aᴛ <a href="https://t.me/Shineii86">Sʜɪɴᴇɪ Nᴏᴜᴢᴇɴ</a>
+- <b>Uᴘɪ Iᴅ:</b> Dᴍ Aᴛ <a href="https://t.me/Senpai_jiro">ᴊɪʀᴏ</a>
 
 💜 <b>Tᴇʟᴇɢʀᴀᴍ Sᴛᴀʀs</b>
-Sᴇɴᴅ Sᴛᴀʀs Dɪʀᴇᴄᴛʟʏ Tᴏ <a href="https://t.me/Shineii86">Sʜɪɴᴇɪ Nᴏᴜᴢᴇɴ</a>
+Sᴇɴᴅ Sᴛᴀʀs Dɪʀᴇᴄᴛʟʏ Tᴏ <a href="https://t.me/Senpai_jiro">ᴊɪʀᴏ</a>
 
 ────────────────
 
