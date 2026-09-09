@@ -62,8 +62,8 @@ export const htmlContent = `
   <!-- Twitter Card — X/Twitter preview                           -->
   <!-- ═══════════════════════════════════════════════════════════ -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:site" content="@Shineii86" />
-  <meta name="twitter:creator" content="@Shineii86" />
+  <meta name="twitter:site" content="@Senpai_jiro" />
+  <meta name="twitter:creator" content="@Senpai_jiro" />
   <meta name="twitter:title" content="Alisa · Reaction Bot" />
   <meta name="twitter:description" content="Fast Telegram auto-reaction bot inspired by Alisa Mikhailovna Kujou. Deploy anywhere, react to everything." />
   <meta name="twitter:image" content="/assets/banner1.png" />
@@ -89,8 +89,8 @@ export const htmlContent = `
     },
     "author": {
       "@type": "Person",
-      "name": "Shinei Nouzen",
-      "url": "https://github.com/Shineii86"
+      "name": "jiro",
+      "url": "https://t.me/Solurix_bots"
     },
     "image": "/assets/banner1.png",
     "softwareVersion": "${VERSION}",
@@ -685,9 +685,9 @@ export const htmlContent = `
       <div class="island-links">
         <a href="#features">Features</a>
         <a href="#deploy">Deploy</a>
-        <a href="https://github.com/Shineii86/AlisaReactionBot" target="_blank">GitHub</a>
+        <a href="https://t.me/Solurix_bots" target="_blank">GitHub</a>
       </div>
-      <a href="https://t.me/AlisaReactionBot" target="_blank" class="island-cta"><i data-lucide="zap"></i> Launch</a>
+      <a href="https://t.me/Solurix_bots" target="_blank" class="island-cta"><i data-lucide="zap"></i> Launch</a>
     </div>
   </div>
 
@@ -715,7 +715,7 @@ export const htmlContent = `
           <p class="hero-desc">The half-Russian, half-Japanese tsundere whose sharp tongue, elegant pride, and moments when Russian slips through her composed facade define every interaction. This Telegram bot carries her essence — precise, proud, and secretly warm. Хмпф.</p>
           <div class="hero-btns">
             <a href="#deploy" class="btn btn-primary"><i data-lucide="rocket"></i> Deploy Now</a>
-            <a href="https://github.com/Shineii86/AlisaReactionBot" target="_blank" class="btn btn-ghost"><i data-lucide="code-2"></i> Source Code</a>
+            <a href="https://t.me/Solurix_bots" target="_blank" class="btn btn-ghost"><i data-lucide="code-2"></i> Source Code</a>
           </div>
         </div>
         <div class="hero-character">
