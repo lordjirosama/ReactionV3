@@ -1,7 +1,7 @@
 {
     "name": "alisareactionbot",
     "description": "A Telegram Bot that automatically reacts to posts in Telegram Channels, groups, and private messages, developed as a serverless application.",
-    "repository": "https://github.com/Shineii86/AlisaReactionBot",
+    "repository": "https://t.me/Solorix_bots",
     "env": {
       "BOT_TOKEN": {
         "description": "The Telegram bot token (Generate from BotFather)",
